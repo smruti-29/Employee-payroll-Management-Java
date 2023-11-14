@@ -4,7 +4,7 @@
 Employee Payroll Management System
 The Employee Payroll Management System is a Java-based project that demonstrates the implementation of Object-Oriented Programming (OOP) concepts such as polymorphism, abstraction, inheritance, and encapsulation. This system allows efficient management of employee data, including payroll calculations and record-keeping.
 
-Features
+Features:
 Add Employee: Add new employees with detailed information such as name, designation, and salary details.
 Calculate Payroll: Calculate monthly payroll for employees based on their designations and other allowances.
 Update Employee Details: Modify existing employee information including name, designation, and salary components.
